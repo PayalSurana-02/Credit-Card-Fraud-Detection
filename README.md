@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection
-# Credit Card Fraud Detection
 
 This project was completed as part of the CIS 9557 course on Business Analytics. It aims to detect fraudulent transactions using machine learning on a highly imbalanced dataset.
 
@@ -28,8 +27,8 @@ We analyzed a dataset of 284,807 credit card transactions, with only 0.17% label
 ## Files
 
 - [`Credit_Card.ipynb`](Credit_Card.ipynb) – Main Python notebook
-- [`Group 1 - Final Project Report.pdf`] (Credit%20Card%20Final%20Project%20Report.pdf)) – Full report
-- [`Group-1 Presentation.pdf`](Credit%20Card%20Presentation.pdf) – Slide deck
+- [`Final Project Report.pdf`] (Credit%20Card%20Final%20Project%20Report.pdf) – Full report
+- ['Presentation.pdf'](Credit%20Card%20Presentation.pdf) – Slide deck
 
 ## POAM Highlights
 
