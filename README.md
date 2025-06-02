@@ -28,8 +28,8 @@ We analyzed a dataset of 284,807 credit card transactions, with only 0.17% label
 ## Files
 
 - [`Credit_Card.ipynb`](Credit_Card.ipynb) – Main Python notebook
-- [`Group 1 - Final Project Report.pdf`](Group%201%20-%20Final%20Project%20Report.pdf) – Full report
-- [`Group-1 Presentation.pdf`](Group-1%20Presentation.pdf) – Slide deck
+- [`Group 1 - Final Project Report.pdf`] (Credit%20Card%20Final%20Project%20Report.pdf)) – Full report
+- [`Group-1 Presentation.pdf`](Credit%20Card%20Presentation.pdf) – Slide deck
 
 ## POAM Highlights
 
